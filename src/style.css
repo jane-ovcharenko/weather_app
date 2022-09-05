@@ -86,3 +86,8 @@ a {
 .temp {
   font-size: 25px;
 }
+.gitHubRepository {
+  display: block;
+  text-align: center;
+  font-size: 20px;
+}
